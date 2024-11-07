@@ -1,5 +1,5 @@
 [versions]
-kafka = "3.6.1"
+kafka = "3.9.0"
 # Don't update, 1.7+ changes an extended class to sealed which breaks
 kotlinxCore = "1.6.4"
 
